@@ -1,19 +1,11 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**saishelar/saishelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--
-<a href="https://www.hackerrank.com/saishelar109">
-  <img src="https://hackerrank-badges.herokapp.com/api/badge?username=saishelar109" alt="HackerRank Stats" />
+### 📊 HackerRank Stats
+<a href="https://www.hackerrank.com/saishelar109" target="_blank">
+  <img src="https://hackerrank-badges.herokuapp.com/api/badge?username=saishelar109" alt="HackerRank Badges" />
 </a>
+
+---
+
+### 📈 GitHub Stats
+[![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saishelar&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
