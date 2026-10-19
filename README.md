@@ -1,9 +1,7 @@
 # Hi there 👋
 
 ### 📊 HackerRank Stats
-<a href="https://www.hackerrank.com/saishelar109" target="_blank">
-  <img src="https://hackerrank-badges.herokuapp.com/api/badge?username=saishelar109" alt="HackerRank Badges" />
-</a>
+[![HackerRank Badges](https://hackerrank-readme-stats.vercel.app/api?username=saishelar109&theme=dark)](https://www.hackerrank.com/saishelar109)
 
 ---
 
